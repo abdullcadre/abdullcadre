@@ -15,17 +15,16 @@ Sou um programador entusiasta da B4X e um treinador de TIC!
 - HTML, CSS e JavaScript: Desenvolvimento web básico.
 - Git e GitHub: Controle de versão e colaboração em projetos.
 
-## Projetos Destacados
-
-- 🚀 [Nome do Projeto 1](link-para-o-projeto): Breve descrição do projeto e suas principais funcionalidades.
-- 🚀 [Nome do Projeto 2](link-para-o-projeto): Breve descrição do projeto e suas principais funcionalidades.
-
 ## Estatísticas do GitHub
 
 [![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=abdullcadre&show_icons=true&theme=radical)](https://github.com/abdullcadre)
 
 ## CODING ACTIVITY
+
+[![Atividade de Codificação](https://github-readme-stats.vercel.app/api/wakatime?username=abdullcadre)](https://wakatime.com/@abdullcadre)
+
 <p>
+  
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=abdullcadre&layout=compact&theme=chartreuse-dark&hide_border=true" />
 </p>
 
