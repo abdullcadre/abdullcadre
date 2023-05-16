@@ -1,45 +1,44 @@
-# Olá! 👋
+# Hello! 👋
 
-Sou um programador entusiasta da B4X e um treinador de TIC!
+I'm an enthusiastic B4X programmer and ICT trainer!
 
-## Sobre mim
+## About Me
 
-- 💻 Apaixonado por programação e tecnologia.
-- 🌱 Atualmente, estou aprofundando meu conhecimento em desenvolvimento com as ferramentas B4X.
-- 👨‍🏫 Gosto de compartilhar meus conhecimentos e ajudar outras pessoas a aprenderem programação.
-- 🎯 Meu objetivo é contribuir para projetos open source e continuar aprendendo constantemente.
+- 💻 Passionate about programming and technology.
+- 🌱 Currently, I'm deepening my knowledge in development with B4X tools.
+- 👨‍🏫 I enjoy sharing my knowledge and helping others learn programming.
+- 🎯 My goal is to contribute to open-source projects and continue learning constantly.
 
-## Habilidades e Tecnologias
+## Skills and Technologies
 
-- B4X (B4A, B4i, B4J): Desenvolvimento multiplataforma para Android, iOS e Desktop.
-- HTML, CSS e JavaScript: Desenvolvimento web básico.
-- Git e GitHub: Controle de versão e colaboração em projetos.
+- B4X (B4A, B4i, B4J): Cross-platform development for Android, iOS, and Desktop.
+- HTML, CSS, and JavaScript: Basic web development.
+- Git and GitHub: Version control and collaboration in projects.
 
-## Estatísticas do GitHub
+## GitHub Statistics
 
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=abdullcadre&show_icons=true&theme=radical)](https://github.com/abdullcadre)
+1. **Contributions Graph**
 
-## CODING ACTIVITY
+   [![Contributions Graph](https://github-readme-streak-stats.herokuapp.com/?user=abdullcadre)](https://github.com/abdullcadre)
 
-[![Atividade de Codificação](https://github-readme-stats.vercel.app/api/wakatime?username=abdullcadre)](https://wakatime.com/@abdullcadre)
+2. **Followers Statistics**
 
-<p>
-  
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=abdullcadre&layout=compact&theme=chartreuse-dark&hide_border=true" />
-</p>
+   [![Followers Statistics](https://img.shields.io/github/followers/abdullcadre?label=Followers&style=social)](https://github.com/abdullcadre)
 
-## GITHUB PROFILE TROPHY
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=abdullcadre&margin-w=25&margin-h=25&column=7&theme=darkhub" />    
-</p>
+3. **General Statistics**
 
-## Entre em Contato
+   [![General Statistics](https://github-readme-stats.vercel.app/api?username=abdullcadre&show_icons=true&theme=radical)](https://github.com/abdullcadre)
 
-- 📫 [Endereço de Email](mailto:abdullcadre@gmail.com)
+4. **Language Activity**
+
+   [![Language Activity](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullcadre&layout=compact)](https://github.com/abdullcadre)
+
+## Contact Me
+
+- 📫 [Email Address](mailto:abdullcadre@gmail.com)
 - 💬 [LinkedIn](https://www.linkedin.com/in/abdullcadre)
 - 🌐 [Website](https://abdullcadre.github.io)
 
-## Contribuições
+## Contributions
 
-Se você gostaria de contribuir para algum dos meus projetos, fique à vontade para abrir uma pull request. Estou sempre aberto a sugestões e melhorias!
-
+If you would like to contribute to any of my projects, feel free to open a pull request. I'm always open to suggestions and improvements!
